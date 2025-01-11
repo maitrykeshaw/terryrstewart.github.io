@@ -1,0 +1,227 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-sarif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+	font-family: 'Poppins', sans-serif;
+
+}
+section
+{
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+}
+
+span{
+	display: flex;
+	color: #ffffff;
+	text-transform: capitalize;
+	font-size: 12px;
+}
+span p {
+	margin: 0px 5px 0px 5px;
+	color: #000000;
+}
+
+.container
+{
+	background: linear-gradient(110deg,#D16BA5,#86A8E7,#5FFBF1);
+
+}
+
+.container .box
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 600px;
+	
+}
+
+.container .box h2 {
+    color: #ffffff;
+    z-index: 1;
+  }
+
+.container .box .card{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin: 10px 10px 20px 10px;
+
+}
+.container .box .card .imgbx{
+	
+}
+
+.container .box .card .imgbx img
+{
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	position: relative;
+	top: 0;
+	left: 0;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+	border: 1px solid #fff;
+}
+
+.container .box .contentbox{
+
+}
+
+
+.container .box .contentbox .content{
+	display: flex;
+	justify-content: start;
+	align-items: center;
+	flex-direction: row;
+	background-color: #c1a5a5;
+	margin: 0px 5px 10px 5px;
+	padding: 0px;
+	border: 1px solid;
+	border-radius: 4px;
+	backdrop-filter: blur(3px) saturate(105%);
+    -webkit-backdrop-filter: blur(3px) saturate(105%);
+    background-color: rgba(255, 255, 255, 0.18);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+
+.container .box .contentbox .content:hover{
+	
+}
+
+.container .box .contentbox .content .imgbx2{
+	display: flex;
+
+
+}
+
+.container .box .contentbox .content .imgbx2 img{
+	width: 46px;
+	height: 46px;
+	margin: 4px;
+	border-radius: 10px;
+
+}
+
+.container .box .contentbox .content .textcenter{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.container .box .contentbox .content p{
+	display: block;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0px 10px 0px 10px;
+    line-height: 1.5;
+    text-align: start;
+
+}
+
+.scattered-previews[data-v-053f5fce] {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+	
+}
+
+.glass[data-v-053f5fce] {
+    position: absolute;
+}
+
+.glass {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgb(0 0 0 / 10%);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+	
+}
+
+
+.container .box .contentbox .hedding{
+	margin: 0px 10px 0px 15px;
+	font-weight: 200;
+	z-index: 1;
+}
+
+.container .box .contentbox .hedding h2{
+	font-weight: 500;
+	font-size: 16px;
+	color: #000000;
+	z-index: 1;
+}
+.ff{
+	display: flex;
+	align-items: center;
+	margin: 20px 0px 0px 0px;
+}
+.ff span{
+	text-decoration: underline;
+	color: black;
+}
+a:-webkit-any-link {
+    color: #000000;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+@media screen and (max-width: 480px) {
+  h2 {
+    color: #000;
+  }
+  .container .box .contentbox .content p {
+  	font-weight: 500;
+  	font-size: 14px;
+  }
+
+  section{
+	align-items: start;
+	}
+
+  .container .box{
+		margin: 20px 0px 20px 0px;
+	}
+
+	.hedding h2{
+	color: #000;
+	font-weight: 500;
+	font-size: 12px;
+}
+
+}
+
+https://linktr.ee/makemoneyonlinejob
+https://www.gotraffic.io/gotraffic/sales?aid=1037915
+background: linear-gradient(320deg,#f27121,#e94057,#8a2387);
+#f27121
